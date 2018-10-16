@@ -3,4 +3,4 @@ Shortcuts
 
 `YouTube DL`_
 
-.. _YouTube DL: ./YouTube\ DL/README.rst
+.. _YouTube DL: ./YouTube%20DL/README.rst
