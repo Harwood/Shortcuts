@@ -1,0 +1,6 @@
+https://www.starbucks.com/menu/catalog/nutrition
+
+
+^@ and ^M are in the csv feels when pulled from the website. these cause problems for Workflow and cause it to crash.
+
+in vim remove them using ctrl-shift-2 for ^@ and crtl-v ctrl-m for ^M
