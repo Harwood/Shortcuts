@@ -7,5 +7,5 @@ Shortcuts
 `YouTube DL`_
 -------------
 
-.. _Slut Roulette: ./Slut%20Roulette/README.rst
-.. _YouTube DL: ./YouTube%20DL/README.rst
+.. _Slut Roulette: ./Slut%20Roulette
+.. _YouTube DL: ./YouTube%20DL
