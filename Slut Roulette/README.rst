@@ -1,4 +1,4 @@
 =============
 Slut Roulette
 =============
-  Random drink suggestions for Starbucks
+Random drink suggestions for Starbucks
