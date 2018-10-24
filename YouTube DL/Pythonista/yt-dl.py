@@ -28,4 +28,3 @@ if __name__ == '__main__':
 	urls = input['urls'].splitlines()
 
 	sys.exit(main(input['options'], urls))
-
