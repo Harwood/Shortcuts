@@ -8,7 +8,8 @@ Utilizes `rg3/youtube-dl`_ for the audio/video downloading from a long list of `
 
   Note: Post processing currently not supported.
   
-  Note: `On My iPhone/Local Storage/Downloads` will need to be added to Pythonista under External Files.
+:code:`On My iPhone/Local Storage/Downloads` will need to be added to Pythonista under External Files.
+
 
 .. _rg3/youtube-dl: https://github.com/rg3/youtube-dl 
 .. _supported sites: https://github.com/rg3/youtube-dl/blob/master/docs/supportedsites.md
