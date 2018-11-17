@@ -1,9 +1,10 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-yt-dl.py '{"options": [], "urls": ["https://www.youtube.com/watch?v=BaW_jenozKc"]}'
+yt-dl.py '{"options": [], "urls": ["https://youtu.be/BaW_jenozKc"]}'
 '''
 
+import console
 import json
 import notification
 import os
@@ -15,7 +16,7 @@ __author__ = "Harwood"
 __copyright__ = ""
 __credits__ = ["Harwood"]
 __license__ = "MIT"
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 __maintainer__ = "Harwood"
 __email__ = ""
 __status__ = "Development"
@@ -37,13 +38,12 @@ class Shortcut:
 		# TODO: validate urls
 		self.ytdl.download(urls)
 
-		webbrowser.open('shortcuts://')
-
 	def hook(d):
 		if d['status'] == 'finished':
 			title = d['filename'].split('/')[-1].split(' - ', 1)[-1].rsplit(' - ', 1)[0]
 
 			notification.schedule(f'Download of "{title}" completed', 1, 'default', '')
+			console.clear()
 
 
 def main(input):
@@ -54,3 +54,4 @@ def main(input):
 
 if __name__ == '__main__':
 	sys.exit(main(json.loads(sys.argv[1])))
+
