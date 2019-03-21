@@ -1,0 +1,1642 @@
+<?xml version="1.0" ?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+	<s:Body xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<NSOPRResponse xmlns="http://www.nsopr.org/xml/2/response">
+			<Person a:id="Person1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>LEE</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>LEE</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>JODY</PersonGivenName>
+					<PersonMiddleName>LEE</PersonMiddleName>
+					<PersonSurName>O HARE</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>JODY</PersonGivenName>
+					<PersonMiddleName>L</PersonMiddleName>
+					<PersonSurName>OHARE</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>JODY</PersonGivenName>
+					<PersonMiddleName>LEE</PersonMiddleName>
+					<PersonSurName>OHARE</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1962-03-10</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>JODY</PersonGivenName>
+					<PersonMiddleName>LEE</PersonMiddleName>
+					<PersonSurName>OHARE</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>DADDY</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName/>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>DEE</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>JONES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>WILLIAM</PersonGivenName>
+					<PersonMiddleName>D</PersonMiddleName>
+					<PersonSurName>JONES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>WILLIAM</PersonGivenName>
+					<PersonMiddleName>DEMARTE</PersonMiddleName>
+					<PersonSurName>JONES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1973-08-25</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>WILLIAM</PersonGivenName>
+					<PersonMiddleName>DEMARTRE</PersonMiddleName>
+					<PersonSurName>JONES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person3" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ROBERT</PersonGivenName>
+					<PersonMiddleName>CHRISTOP</PersonMiddleName>
+					<PersonSurName>ROSS</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ROBERT</PersonGivenName>
+					<PersonMiddleName>CHRRISTOP</PersonMiddleName>
+					<PersonSurName>ROSS</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>RROBERT</PersonGivenName>
+					<PersonMiddleName>CHRISTOPHER</PersonMiddleName>
+					<PersonSurName>ROSS</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1960-06-16</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ROBERT</PersonGivenName>
+					<PersonMiddleName>CHRISTOPHER</PersonMiddleName>
+					<PersonSurName>ROSS</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person4" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>FOOTS</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName/>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ROB</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>RILEY</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ROB</PersonGivenName>
+					<PersonMiddleName>LEE</PersonMiddleName>
+					<PersonSurName>RILEY</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ROBERT</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>RILEY</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ROBERT</PersonGivenName>
+					<PersonMiddleName>LEE JR</PersonMiddleName>
+					<PersonSurName>RILEY</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1970-10-28</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ROBERT</PersonGivenName>
+					<PersonMiddleName>LEE</PersonMiddleName>
+					<PersonSurName>RILEY</PersonSurName>
+					<PersonNameSuffixText>JR</PersonNameSuffixText>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person5" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ADAM</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>TORRES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ADAM</PersonGivenName>
+					<PersonMiddleName>B</PersonMiddleName>
+					<PersonSurName>TORRES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1982-07-13</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ADAM</PersonGivenName>
+					<PersonMiddleName>BRUCE</PersonMiddleName>
+					<PersonSurName>TORRES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person6" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>BRYAN</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>HOWARD</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>KEITH</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>HOWARD</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1969-03-30</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>BRYAN</PersonGivenName>
+					<PersonMiddleName>KEITH</PersonMiddleName>
+					<PersonSurName>HOWARD</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person7" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>GUSTAVO JR</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>ROJAS</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>GUSTAVO</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>ROJAS JR</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1985-09-12</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>GUSTAVO</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>ROJAS</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person8" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>MARIO</PersonGivenName>
+					<PersonMiddleName>DEGOBERTO</PersonMiddleName>
+					<PersonSurName>CANIZALES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>MARIO</PersonGivenName>
+					<PersonMiddleName>IRAHETA</PersonMiddleName>
+					<PersonSurName>CANIZALES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>MARIO</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>CANIZALES IRAHETA</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>MARIO</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>CANIZALEZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>MARIO</PersonGivenName>
+					<PersonMiddleName>DAGOBERTO</PersonMiddleName>
+					<PersonSurName>CANIZALEZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>MARIO</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>IRAHETA</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1963-04-25</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>MARIO</PersonGivenName>
+					<PersonMiddleName>D</PersonMiddleName>
+					<PersonSurName>CANIZALES IRAHETA</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person9" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>RYAN</PersonGivenName>
+					<PersonMiddleName>A</PersonMiddleName>
+					<PersonSurName>BOWERSOX</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1985-02-22</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>RYAN</PersonGivenName>
+					<PersonMiddleName>ARTHUR</PersonMiddleName>
+					<PersonSurName>BOWERSOX</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person10" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>J, X</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName/>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>JOHN</PersonGivenName>
+					<PersonMiddleName>GREY</PersonMiddleName>
+					<PersonSurName>STEELE</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>JORDAN</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>STEELE</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1991-02-16</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>JORDAN</PersonGivenName>
+					<PersonMiddleName>GREY</PersonMiddleName>
+					<PersonSurName>STEELE</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person11" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>PHILLIP</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>JUAREZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1984-10-12</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>PHILLIP</PersonGivenName>
+					<PersonMiddleName>JAMES</PersonMiddleName>
+					<PersonSurName>JUAREZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person12" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ANTHONY</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>FAIRCHILD</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ANTHONY</PersonGivenName>
+					<PersonMiddleName>D</PersonMiddleName>
+					<PersonSurName>FAIRCHILD</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1984-08-01</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>ANTHONY</PersonGivenName>
+					<PersonMiddleName>DERRICK</PersonMiddleName>
+					<PersonSurName>FAIRCHILD</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person13" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>FREDDIE</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>CHAVEZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>FREDDY</PersonGivenName>
+					<PersonMiddleName>ALONSO</PersonMiddleName>
+					<PersonSurName>CHAVEZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>FREDDIE</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>CHAVEZMARQUEZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>FREDDY</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>CHAVEZ-MARQUEZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>FREDDIE</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>MARQUEZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>FREDDY</PersonGivenName>
+					<PersonMiddleName>ALONSO</PersonMiddleName>
+					<PersonSurName>MARQUEZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1990-11-21</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>FREDDY</PersonGivenName>
+					<PersonMiddleName>ALONSO</PersonMiddleName>
+					<PersonSurName>CHAVEZ-MARQUEZ</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person14" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>JONATHAN</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>JONES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>JONATHAN</PersonGivenName>
+					<PersonMiddleName>S</PersonMiddleName>
+					<PersonSurName>JONES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1976-10-16</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>JONATHAN</PersonGivenName>
+					<PersonMiddleName>SAMUEL</PersonMiddleName>
+					<PersonSurName>JONES</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person15" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>MICHAEL</PersonGivenName>
+					<PersonMiddleName>W</PersonMiddleName>
+					<PersonSurName>CAMPBELL</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>MICHAEL</PersonGivenName>
+					<PersonMiddleName>WENDELL</PersonMiddleName>
+					<PersonSurName>CAMPBELL</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1987-07-20</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>MICHAEL</PersonGivenName>
+					<PersonMiddleName/>
+					<PersonSurName>CAMPBELL</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Person a:id="Person16" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<PersonAlternateName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>GEORGE</PersonGivenName>
+					<PersonMiddleName>Q</PersonMiddleName>
+					<PersonSurName>CRISOSTOMO</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonAlternateName>
+				<PersonBirthDate>
+					<Date>1957-11-12</Date>
+				</PersonBirthDate>
+				<PersonName>
+					<PersonNamePrefixText/>
+					<PersonGivenName>GEORGE</PersonGivenName>
+					<PersonMiddleName>QUITANO</PersonMiddleName>
+					<PersonSurName>CRISOSTOMO</PersonSurName>
+					<PersonNameSuffixText/>
+				</PersonName>
+				<PersonSexText>M</PersonSexText>
+			</Person>
+			<Location a:id="Loc-1-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>6955 N DURANGO DR 1018</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2873</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2895</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-1-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>3240 S RAINBOW BLVD</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89146</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.1305</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2427</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-2-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>7040 ROYAL ANTELOPE ST</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2898</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.3062</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-2-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>7040 ROYAL ANTELOPE ST</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2898</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.3062</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-2-3" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>6655 W SAHARA AVE C112</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89146</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.1432</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2379</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-3-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>9149  GOOSE LAKEWAY</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2884</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2959</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-3-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText/>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode/>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>0</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>0</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-4-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>6726 BRISTLE FALLS  ST</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2844</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.3111</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-4-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>5740 ARVILLE ST 203</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89118</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.0844</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.1986</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-5-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>9048 BOSTON SPRINGS AVE</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2935</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2941</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-5-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>17495 HURLEY ST E</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>CITY OF INDUSTRY</LocationCityName>
+						<LocationCountyName>Out of State</LocationCountyName>
+						<LocationStateUSPostalServiceCode>CA</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>91744</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>34.0088</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-117.921</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-6-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>3030 JACARANDA DR</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89117</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.1343</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2734</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-6-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>6955 N DURANGO 1115-380</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2873</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2895</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-7-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>7164 N CAMPBELL RD</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2901</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2932</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-7-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>3570 S LAS VEGAS BLVD</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89109</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.1161</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.175</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-8-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>9218 DORRELL LN</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2884</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2975</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-8-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>3566 POLARIS AVE STE 1</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89103</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.1245</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.1843</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-9-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>5820 N BUTLER ST</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS  VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2668</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2756</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-9-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>NONE</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2775</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2886</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-10-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>6955 N DURANGO DR 1082</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2873</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2895</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-10-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>6760 N DURANGO DR</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2829</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2874</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-10-3" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>6640 N DURANGO DR</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2811</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2862</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-11-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>6955 N DURANGO DR APT 2075</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2873</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2895</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-11-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>225 ROYAL LEGACY LN</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89110</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.1632</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.0249</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-12-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>9637 ANN ARBOR LN</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89134</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>0</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>0</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-12-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>9145 ECHELON POINT DR APT 1117</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2817</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2956</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-12-3" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>4595 W ANN RD</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>NORTH LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89031</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2612</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2038</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-13-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>6955 N DURANGO DR 2109</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2873</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2895</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-13-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>5100 SOBB AVE</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89118</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.0773</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.211</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-14-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>9091 DRUMMER BAY AVE</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.281</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2944</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-14-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>PO BOX 62437</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>BOULDER CITY</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89006</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>35.9799</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-114.83</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-15-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>10151 DORRELL LN UNIT 2097</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89166</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2868</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.316</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-15-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>5910 RANGE RD</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89166</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>0</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>0</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-16-1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>9417 WHITE RIDGE AVE</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Residence</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2888</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.3022</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<Location a:id="Loc-16-2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">
+				<LocationAddress>
+					<StructuredAddress>
+						<LocationStreet>
+							<StreetFullText>NONE</StreetFullText>
+						</LocationStreet>
+						<LocationCityName>LAS VEGAS</LocationCityName>
+						<LocationCountyName>Clark</LocationCountyName>
+						<LocationStateUSPostalServiceCode>NV</LocationStateUSPostalServiceCode>
+						<LocationPostalCode>89149</LocationPostalCode>
+						<LocationPostalExtensionCode>0000</LocationPostalExtensionCode>
+					</StructuredAddress>
+				</LocationAddress>
+				<LocationName>Employment</LocationName>
+				<LocationTwoDimensionalGeographicCoordinate>
+					<GeographicCoordinateLatitude>
+						<LatitudeDegreeValue>36.2684</LatitudeDegreeValue>
+					</GeographicCoordinateLatitude>
+					<GeographicCoordinateLongitude>
+						<LongitudeDegreeValue>-115.2956</LongitudeDegreeValue>
+					</GeographicCoordinateLongitude>
+				</LocationTwoDimensionalGeographicCoordinate>
+			</Location>
+			<DeviceVisitedWebsiteURI a:id="Url1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/bf2574fd-d0bb-4b4d-b87b-bc10a1950d3f</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/c683c754-ba19-45f7-b700-944f5e633c49</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url3" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/e47a9aa0-d15a-446a-a0d1-12d2f36d4497</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url4" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/cfcfc8da-bc9d-43da-964a-d03dce22d6ad</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url5" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/c95b3e02-da89-4bf1-bdd1-a53be9a22dd4</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url6" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/451e8770-1427-41c4-9519-75be85ba74f5</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url7" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/e3f78aaa-5106-4fd6-b353-c79c89e5b00b</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url8" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/34554958-ab38-4776-8dec-f9acf10ed0bd</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url9" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/af423c04-aeb1-4916-b1f6-e5260bafd9bb</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url10" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/6f771862-8609-47db-91cc-0074632bfd65</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url11" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/47586390-8614-46cd-ae36-bb59cb0e0d09</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url12" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/883c8028-1d21-405a-acff-8cc401fb1406</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url13" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/88a45a59-6f38-457f-8ada-6877cd77cca2</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url14" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/46e66f2a-9642-49f0-8861-d75bfa2a5114</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url15" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/2b3658e0-7e02-40bb-b3df-79729fcf0a8d</DeviceVisitedWebsiteURI>
+			<DeviceVisitedWebsiteURI a:id="Url16" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://www.nsopw.gov/en/ExternalLink/ApiLink/90a95bcc-fa30-4330-87a9-349c6d6a5117</DeviceVisitedWebsiteURI>
+			<BinaryLocationURI a:id="Binary1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTE1NjImSW1hZ2VJZD01MTM5NCZUaHVtYj10cnVlJnVpZD0wMjNkMDNlMS00NWQ3LTRkNmMtYWI4ZS03MzVlMzgzY2FlYTk1</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTEzMDU5JkltYWdlSWQ9NTE5NDkmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary3" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTE0MDk0JkltYWdlSWQ9MTUyODQmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary4" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTE3NzMyJkltYWdlSWQ9NDgyMjYmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary5" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTE5MTg3JkltYWdlSWQ9MzY4MDgmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary6" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTIxNDA5JkltYWdlSWQ9NTA1MDAmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary7" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTIzODgzJkltYWdlSWQ9NTQ3NjAmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary8" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTIzODk5JkltYWdlSWQ9NTUxNTkmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary9" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTI0MTE4JkltYWdlSWQ9NDI2ODAmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary10" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTI1MDAzJkltYWdlSWQ9NTE1ODUmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary11" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTI1NTA1JkltYWdlSWQ9NTAxMTgmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary12" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTI1NjY2JkltYWdlSWQ9NTE1MTUmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary13" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTI1ODcwJkltYWdlSWQ9NDczMjkmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary14" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTI3NDM2JkltYWdlSWQ9NTEyNzgmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary15" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTI3NzE0JkltYWdlSWQ9NDc5ODcmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<BinaryLocationURI a:id="Binary16" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0">https://nsopwbefn.azurewebsites.net/api/Thumbnail/aHR0cDovL252c2V4b2ZmZW5kZXJzLmdvdi9EaXNwbGF5SW1hZ2UuYXNweD9PZmZlbmRlcklkPTI3NzI1JkltYWdlSWQ9NDAwMDcmVGh1bWI9dHJ1ZSZ1aWQ9MDIzZDAzZTEtNDVkNy00ZDZjLWFiOGUtNzM1ZTM4M2NhZWE50</BinaryLocationURI>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-1-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-2-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person3" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-3-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person4" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-4-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person5" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-5-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person6" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-6-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person7" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-7-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person8" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-8-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person9" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-9-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person10" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-10-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person11" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-11-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person12" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-12-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person12" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-12-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person13" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-13-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person14" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-14-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person15" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-15-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<ResidenceAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person16" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-16-1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</ResidenceAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person1" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-1-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-2-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-2-3" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person3" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-3-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person4" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-4-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person5" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-5-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person6" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-6-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person7" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-7-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person8" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-8-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person9" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-9-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person10" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-10-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person10" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-10-3" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person11" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-11-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person12" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-12-3" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person13" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-13-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person14" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-14-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person15" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-15-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<PersonEmploymentLocationAssociation xmlns="http://niem.gov/niem/niem-core/2.0">
+				<PersonReference a:ref="Person16" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<LocationReference a:ref="Loc-16-2" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</PersonEmploymentLocationAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person3" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url3" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person4" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url4" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person5" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url5" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person6" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url6" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person7" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url7" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person8" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url8" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person9" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url9" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person10" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url10" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person11" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url11" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person12" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url12" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person13" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url13" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person14" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url14" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person15" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url15" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderURLAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person16" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<DeviceVisitedWebsiteURIReference a:ref="Url16" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderURLAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary1" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary2" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person3" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary3" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person4" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary4" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person5" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary5" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person6" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary6" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person7" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary7" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person8" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary8" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person9" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary9" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person10" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary10" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person11" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary11" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person12" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary12" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person13" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary13" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person14" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary14" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person15" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary15" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+			<OffenderPictureURIAssociation xmlns="http://www.nsopr.org/xml/2/extension">
+				<PersonReference a:ref="Person16" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+				<BinaryLocationURIReference a:ref="Binary16" xmlns="http://niem.gov/niem/niem-core/2.0" xmlns:a="http://niem.gov/niem/structures/2.0"/>
+			</OffenderPictureURIAssociation>
+		</NSOPRResponse>
+	</s:Body>
+</s:Envelope>
