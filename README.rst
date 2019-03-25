@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHarwood%2FShortcuts.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHarwood%2FShortcuts?ref=badge_shield)
+
 =========
 Shortcuts
 =========
@@ -26,3 +28,6 @@ Shortcuts
 .. _Slut Roulette: ./Slut%20Roulette
 .. _Toggl: ./Toggl
 .. _YouTube DL: ./YouTube%20DL
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHarwood%2FShortcuts.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHarwood%2FShortcuts?ref=badge_large)
